@@ -1,0 +1,1 @@
+import{_ as o}from"./Header.1838d8af.js";import{_ as e,C as n,B as r}from"./index.d86475c5.js";const a={components:{VueEcharts},data(){return{}}};function c(s,_,p,m,u,d){const t=o;return r(),n(t,{title:"\u5BA2\u6237\u8D8B\u52BF\u56FE"})}const l=e(a,[["render",c]]);export{l as default};

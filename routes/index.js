@@ -11,6 +11,7 @@ router.get('/getUserInfo', async (ctx, next) => {
     console.warn(ctx.query.uid)
     const uid = ctx.query.uid
     const user = await query(`select * from account where uid = ${uid};`)
+    console.warn(user)
     ctx.body = user[0]
 })
 

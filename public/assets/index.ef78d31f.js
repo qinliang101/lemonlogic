@@ -1,0 +1,1 @@
+import{_ as n}from"./MainNav.619b83a1.js";import{_ as o,G as t,k as _,B as c}from"./index.d86475c5.js";const s={},a={class:"main_with_nav"};function r(i,m){const e=n;return c(),t("div",a,[_(e,{navType:"customer"})])}const f=o(s,[["render",r]]);export{f as default};
